@@ -47,4 +47,6 @@ airflow users create -u airflow -f airflow -l airflow -r Admin -e airflow@gmail.
 airflow webserver &
 
 airflow scheduler
+
+airlow standalone
 ```
